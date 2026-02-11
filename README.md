@@ -137,9 +137,11 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 #### (4.3) Usando o estilete ou decapador de cabo, remova o equivalente a 2 dedos de capa azul, sem ferir as vias internas;
 
-<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/01.jpg" width="500">
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/01.jpg" width="400">
 
-#### (4.4) Desembaresse as 8 vias, deixando-as bem retas;
+#### (4.4) Desembaresse as 8 vias:
+
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/02.jpg" width="400">
 
 #### (4.5) Coloque as vias na ordem correta
 
@@ -152,7 +154,13 @@ Atenção: as ferramentas terão que ser compartilhadas.
    - pino (7) Marrom/Branco
    - pino (8) Marrom
 
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/03.jpg" width="400">
+
 #### (4.6) Sem soltar a organização das vias, apare as pontas das vias por igual de modo que sobre 1,5 dedo de comprimento;
+
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/04.jpg" width="300">
+
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/05.jpg" width="300">
 
 #### (4.7) Sem soltar a organização das vias, insira-as no RJ45 e na ordem certa: pino 1 com Verde/Branco e certifique-se que todas as 8 vias estão no encostando no fundo do conector, onde há os garfinhos de cobre;
 
