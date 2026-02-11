@@ -162,4 +162,4 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 #### (4.10) Caso algum LED tenha falhado, faça: esmague novamente os 2 conectores e teste novamente;
 
-#### (4.11) Caso ainda assim algum LED tenha falhado, senta e chora. Vai ter que refazer uma das pontas. Mas antes, faça uma inspeção visual e tente encontrar qual ponta tem maior probabilidade de estar errada, com cor de via invertida ou que não esteja em contato com o garfinho de cobre.
+#### (4.11) Caso ainda assim algum LED tenha falhado, senta e chora. Vai ter que refazer uma das pontas. Mas antes, faça uma inspeção visual e tente encontrar qual ponta tem maior probabilidade de estar errada, com cor de via invertida ou que não esteja em contato com o garfinho de cobre. Volte na etapa (4.2)
