@@ -137,6 +137,8 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 #### (4.3) Usando o estilete ou decapador de cabo, remova o equivalente a 2 dedos de capa azul, sem ferir as vias internas;
 
+<img src="https://github.com/agodoi/m04-semana02a/blob/main/imgs/Piezo.png" width="500">
+
 #### (4.4) Desembaresse as 8 vias, deixando-as bem retas;
 
 #### (4.5) Coloque as vias na ordem correta
