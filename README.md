@@ -63,7 +63,7 @@ A **topologia lógica** descreve como os dados se movem dentro da rede, ou seja,
 
 ---
 
-## (3) Crimpagem do cabo UTP e Teste
+## (3) Boas Práticas para Crimpagem do cabo UTP e Teste
 
 Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns detalhes para garantir uma conexão eficiente e estável, livre de problemas, engenharia social e consequentemente, ataques. Sua missão é crimpar um cabo UTP CAT 5 com um conector RJ45 em cada ponta e passar no teste de condutividade. Usar o padrão 568A nas duas pontas. Você também pode optar pelo 568B nas duas pontas. Aqui estão as boas práticas para esse processo:
 
@@ -127,3 +127,12 @@ Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns det
    - Verifique se todos os pares estão funcionando e se não há fios cruzados ou mal conectados.
 
 ---
+
+## (4) Roteiro Prático
+
+### (4.1) Formem duplas de dois :)
+
+### (4.1) Pegue um lance de cabo UTP disponível com o professor
+
+### (4.2) Pegue um lance de cabo UTP disponível com o professor
+
