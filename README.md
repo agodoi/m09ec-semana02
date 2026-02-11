@@ -229,7 +229,7 @@ Linux
 traceroute 8.8.8.8
 ```
 
-#### (4.21) Vamos descobrir os IP
+#### (4.21) Vamos descobrir os IP que você já conversou nesta rede.
 
 Windows
 ```
@@ -240,6 +240,13 @@ Linux
 ```
 arp -n
 ```
+
+O que é essa lista?
+
+É o cache ARP da sua máquina: uma “agenda” que guarda o endereço físico (MAC) correspondente a cada IP local com o qual seu PC falou (ou viu tráfego).
+
+- dinâmico = aprendido automaticamente via ARP e expira depois de um tempo
+- estático = entradas especiais (broadcast/multicast) ou fixas
 
 #### (4.22) Vamos conferir qual largura de banda você está conectado. Seu cabo está em 100Mbps ou 1Gbps?
 
