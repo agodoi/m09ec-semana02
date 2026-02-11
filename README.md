@@ -42,8 +42,28 @@ A **topologia lógica** descreve como os dados se movem dentro da rede, ou seja,
 * Vantagens: baixo custo, facilidade de instalação e flexibilidade.
 * Desvantagens: menor alcance e susceptibilidade a interferências em comparação com outros meios.
 
+### (2.4) Óptico
 
-### Crimpagem do cabo UTP e Teste
+   O meio óptico utiliza fibras ópticas feitas de vidro ou plástico para transmitir dados por meio de pulsos de luz, em vez de sinais elétricos. A fibra óptica é capaz de transportar grandes quantidades de dados a altas velocidades por longas distâncias com mínima perda de sinal.
+
+* Fibra monomodo: Ideal para transmissões de longa distância, geralmente em WANs, devido à baixa atenuação e alta capacidade.
+* Fibra multimodo: Usada em curtas distâncias, como dentro de prédios ou campus, oferecendo também alta capacidade, mas com mais perda de sinal.
+* Vantagens: Alta velocidade, grande capacidade de dados e imunidade a interferências eletromagnéticas.
+* Desvantagens: custo mais alto e maior complexidade de instalação e manutenção.
+
+### (2.5) Eletromagnético
+
+   O meio eletromagnético envolve a transmissão de dados por ondas de rádio, micro-ondas, ou infravermelho através do ar, sem a necessidade de cabos físicos. Esse tipo de transmissão é amplamente utilizado em redes sem fio (wireless).
+
+* Ondas de rádio: usadas em redes Wi-Fi, comunicações de satélite e redes de longa distância (LTE/5G).
+* Micro-ondas: usadas para transmissões de longa distância em linhas de visão direta, como em comunicações entre torres de transmissão.
+* Infravermelho: Utilizado em comunicações de curta distância, como controles remotos ou em alguns dispositivos IoT.
+* Vantagens: flexibilidade e mobilidade, já que não depende de cabos.
+* Desvantagens: susceptibilidade a interferências, obstáculos físicos e limitações de alcance e largura de banda.
+
+---
+
+## (3) Crimpagem do cabo UTP e Teste
 
 Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns detalhes para garantir uma conexão eficiente e estável, livre de problemas, engenharia social e consequentemente, ataques. Sua missão é crimpar um cabo UTP CAT 5 com um conector RJ45 em cada ponta e passar no teste de condutividade. Usar o padrão 568A nas duas pontas. Você também pode optar pelo 568B nas duas pontas. Aqui estão as boas práticas para esse processo:
 
@@ -58,7 +78,7 @@ Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns det
    - Ao remover a capa externa do cabo, deixe expostos cerca de 2,5 cm (1 polegada) dos pares trançados internos.
    - Não desencape, ou corte ou danifique os fios internos no momento de desencapar a capa externa.
 
-**d)** Desenrolar e Organizar os Fios
+**d)** Desenrolar e Organizar as Vias Internas
    - Separe os pares de fios e os alinhe de acordo com o padrão escolhido (T568A ou T568B).
    - Certifique-se de que os fios estão alinhados e retos antes de inserir no conector.
    - Não desenrole demais os fios; mantenha a torção o mais próximo possível do conector, pois isso ajuda a minimizar interferências.
