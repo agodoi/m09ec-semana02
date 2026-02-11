@@ -180,3 +180,21 @@ Atenção: as ferramentas terão que ser compartilhadas.
 #### (4.12) Caso ainda assim algum LED tenha falhado, senta e chora. Vai ter que refazer uma das pontas. Mas antes, faça uma inspeção visual e tente encontrar qual ponta tem maior probabilidade de estar errada, com cor de via invertida ou que NÃO esteja em contato com o garfinho de cobre. Volte na etapa (4.3), mas sem chorar.
 
 <img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/falha.png" width="300">
+
+#### (4.13) Plugue o seu cabo em qualquer porta do switch que o professor disponbilizou no centro da sala;
+
+#### (4.14) Plugue a outra ponta no seu notebook. Desabilite o WiFi e certifique-se que sua porta RJ45 esteja ativa. A ideia é o seu notebook navegar na Internet via REDE LAN DA TURMA;
+
+#### (4.15) Abra o navegador e veja a Internet funcionando;
+
+#### (4.16) Agora, vamos fazer um simples teste de carga usando o protocolo ICMP - Internet Control Message Protocol. Abra um terminal CMD e digite:
+
+Windows
+```
+ping 192.168.0.1 -l 1400 -n 200
+```
+
+Linux
+```
+ping 192.168.0.1 -s 1400 -c 200
+```
