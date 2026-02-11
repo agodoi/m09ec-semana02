@@ -154,7 +154,7 @@ Atenção: as ferramentas terão que ser compartilhadas.
    - pino (7) Marrom/Branco
    - pino (8) Marrom
 
-<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/03.jpg" width="400">
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/03.jpg" width="300">
 
 #### (4.6) Sem soltar a organização das vias, apare as pontas das vias por igual de modo que sobre 1,5 dedo de comprimento;
 
@@ -164,7 +164,11 @@ Atenção: as ferramentas terão que ser compartilhadas.
 
 #### (4.7) Sem soltar a organização das vias, insira-as no RJ45 e na ordem certa: pino 1 com Verde/Branco e certifique-se que todas as 8 vias estão no encostando no fundo do conector, onde há os garfinhos de cobre;
 
-#### (4.8) Segurando o cabo dentro do conector, pegue o alicate, encaixe o conector no espaço e esmague o conector com a força do ódio
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/06.jpg" width="300">
+
+#### (4.8) Segurando o cabo dentro do conector, pegue o alicate, encaixe o conector no espaço e esmague o conector com a força do ódio;
+
+<img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/06.jpg" width="300">
 
 #### (4.9) Solte o conector do alicate e aguarde a outra ponta ficar pronta para seguir;
 
