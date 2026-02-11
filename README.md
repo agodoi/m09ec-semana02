@@ -200,6 +200,61 @@ ping 192.168.0.1 -s 1400 -c 200
 ```
 #### (4.17) Verifique o comportamento do TEMPO. Ele está variando muito? Está alto? Está baixo? Quantos hosts tem na rede fazendo testes?
 
-#### (4.18) Agora vamos tentar encontrar o pior cabo da sala... 
+#### (4.18) Agora vamos tentar encontrar o pior cabo da sala... O pior vai ganhar um chocolate
 
 <img src="https://github.com/agodoi/m09cc-semana02/blob/main/assets/pimentinha.png" width="300">
+
+#### (4.19) Todos os pares desplugam o seu cabo do switch, e por ordem, cada dupla pluga na mesma porta 1 do switch e executa esse teste:
+
+Windows
+```
+ping 192.168.0.1 -l 10000 -n 10
+```
+
+Linux
+```
+ping 192.168.0.1 -s 10000 -c 10
+```
+
+#### e diga ao professor os 3 maiores valores de tempo. Se der um pacote "tempo esgotado", a dupla já saiu na frente.
+
+#### (4.20) Vamos mapear nossa rede. Todos dêem esse comando:
+Windows
+```
+tracert 8.8.8.8
+```
+
+Linux
+```
+traceroute 8.8.8.8
+```
+
+#### (4.21) Vamos descobrir os IP
+
+Windows
+```
+arp -a
+```
+
+Linux
+```
+arp -n
+```
+
+#### (4.22) Vamos conferir qual largura de banda você está conectado. Seu cabo está em 100Mbps ou 1Gbps?
+
+```
+sudo apt install ethtool
+```
+Procure pela sua porta Ethernet ``` ip a ```
+
+Normalmente será algo como: eth0, enp3s0 ou enp0s25
+
+```
+sudo ethtool enp3s0
+```
+
+Procure por Speed: 1000Mb/s, Duplex: Full e Link detected: yes
+
+
+
