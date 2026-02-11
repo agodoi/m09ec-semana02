@@ -132,14 +132,14 @@ Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns det
 
 #### (4.1) Formem duplas de dois :)
 
-#### (4.1) Pegue um lance de cabo UTP disponível com o professor. Cada aluno fará uma ponta do mesmo cabo;
+#### (4.2) Pegue um lance de cabo UTP disponível com o professor. Cada aluno fará uma ponta do mesmo cabo;
 Atenção: as ferramentas terão que ser compartilhadas.
 
-#### (4.2) Usando o estilete ou decapador de cabo, remova o equivalente a 2 dedos de capa azul, sem ferir as vias internas;
+#### (4.3) Usando o estilete ou decapador de cabo, remova o equivalente a 2 dedos de capa azul, sem ferir as vias internas;
 
-#### (4.3) Desembaresse as 8 vias, deixando-as bem retas;
+#### (4.4) Desembaresse as 8 vias, deixando-as bem retas;
 
-#### (4.4) Coloque as vias na ordem correta
+#### (4.5) Coloque as vias na ordem correta
 
    - pino (1) Verde/Branco
    - pino (2) Verde
@@ -150,16 +150,16 @@ Atenção: as ferramentas terão que ser compartilhadas.
    - pino (7) Marrom/Branco
    - pino (8) Marrom
 
-#### (4.5) Sem soltar a organização das vias, apare as pontas das vias por igual de modo que sobre 1,5 dedo de comprimento;
+#### (4.6) Sem soltar a organização das vias, apare as pontas das vias por igual de modo que sobre 1,5 dedo de comprimento;
 
-#### (4.6) Sem soltar a organização das vias, insira-as no RJ45 e na ordem certa: pino 1 com Verde/Branco e certifique-se que todas as 8 vias estão no encostando no fundo do conector, onde há os garfinhos de cobre;
+#### (4.7) Sem soltar a organização das vias, insira-as no RJ45 e na ordem certa: pino 1 com Verde/Branco e certifique-se que todas as 8 vias estão no encostando no fundo do conector, onde há os garfinhos de cobre;
 
-#### (4.7) Segurando o cabo dentro do conector, pegue o alicate, encaixe o conector no espaço e esmague o conector com a força do ódio
+#### (4.8) Segurando o cabo dentro do conector, pegue o alicate, encaixe o conector no espaço e esmague o conector com a força do ódio
 
-#### (4.8) Solte o conector do alicate e aguarde a outra ponta ficar pronta para seguir;
+#### (4.9) Solte o conector do alicate e aguarde a outra ponta ficar pronta para seguir;
 
-#### (4.9) Pegue o testador de cabo, conecte qualquer ponta nos encaixes e ligue-o. Os LEDS precisam piscar um ao lado do outro sincronizadamente. Se isso aconteceu, SUCESSO!
+#### (4.10) Pegue o testador de cabo, conecte qualquer ponta nos encaixes e ligue-o. Os LEDS precisam piscar um ao lado do outro sincronizadamente. Se isso aconteceu, SUCESSO!
 
-#### (4.10) Caso algum LED tenha falhado, faça: esmague novamente os 2 conectores e teste novamente;
+#### (4.11) Caso algum LED tenha falhado, faça: esmague novamente os 2 conectores e teste novamente;
 
-#### (4.11) Caso ainda assim algum LED tenha falhado, senta e chora. Vai ter que refazer uma das pontas. Mas antes, faça uma inspeção visual e tente encontrar qual ponta tem maior probabilidade de estar errada, com cor de via invertida ou que não esteja em contato com o garfinho de cobre. Volte na etapa (4.2)
+#### (4.12) Caso ainda assim algum LED tenha falhado, senta e chora. Vai ter que refazer uma das pontas. Mas antes, faça uma inspeção visual e tente encontrar qual ponta tem maior probabilidade de estar errada, com cor de via invertida ou que não esteja em contato com o garfinho de cobre. Volte na etapa (4.3)
